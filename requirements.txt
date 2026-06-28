@@ -1,0 +1,8 @@
+# Dependencias para el dashboard (Streamlit Cloud)
+# Debe estar en la RAÍZ del repositorio, junto a app.py.
+streamlit
+scikit-learn==1.5.2
+joblib
+pandas
+numpy
+matplotlib
